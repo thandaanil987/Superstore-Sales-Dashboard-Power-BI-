@@ -43,7 +43,7 @@ Top products contribute a major portion of total revenue
 
 👉 Add your dashboard image like this:
 
-![Dashboard Preview](images/sales_dashboard.png)
+![Dashboard Preview](sales_dashboard.png)
 
 💡 Business Impact : 
 
