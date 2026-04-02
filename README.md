@@ -71,5 +71,3 @@ The dashboard helps stakeholders monitor key metrics such as Sales, Profit, Cust
 
 **Anil Kumar**  
 Data Analyst  
-
----
