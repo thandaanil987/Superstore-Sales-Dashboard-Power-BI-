@@ -1,5 +1,4 @@
-# 📊 Superstore Sales Dashboard (Power BI)
-
+📊 Superstore Sales Dashboard (Power BI)
 ## 📌 Project Overview
 
 This project presents an interactive Sales Dashboard built using Power BI to analyze retail business performance.
